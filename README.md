@@ -63,19 +63,6 @@ Each design pattern is implemented in **Java**, with clear explanations and real
 You can navigate the `src/` folder for code implementations with comments.
 
 ---
-
-## 🚀 Problem-Solving with Design Patterns
-Design patterns help solve complex problems efficiently. Some common real-world problems tackled with design patterns:
-- **Thread-safe singleton for logging**.
-- **Factory pattern for object creation in microservices**.
-- **Observer pattern for event-driven programming**.
-- **Decorator pattern for dynamic UI components**.
-- **Strategy pattern for implementing multiple algorithms dynamically**.
-
-Each problem statement and its corresponding solution can be found in the `problems/` directory.
-
----
-
 ## 📖 References & Further Study
 - *Design Patterns: Elements of Reusable Object-Oriented Software* by the Gang of Four (GoF)
 - *Head First Design Patterns* by Eric Freeman & Elisabeth Robson
