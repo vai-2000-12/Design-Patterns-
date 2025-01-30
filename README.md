@@ -94,14 +94,6 @@ Pull requests are welcome! If you have implemented a new pattern or found a bett
 ✅ Implemented each pattern in Java.
 ✅ Solved problems using appropriate design patterns.
 ✅ Shared knowledge to help others learn!
-
 ---
-
-## 💡 Stay Connected
-Follow my journey in mastering **System Design & Low-Level Design (LLD)**:
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub](https://github.com/your-username)
-- **Twitter/X:** [Your Twitter](https://twitter.com/your-handle)
-
 Happy Coding! 🚀
 
